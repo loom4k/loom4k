@@ -9,9 +9,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <iframe
-    src="https://wadecord.cf"
-    style="width:100%; height:300px;"
-  ></iframe>
+  <embed src="http://www.wadecord.cf" style="width:500px; height: 300px;">
 </body>
 </html>
