@@ -1,4 +1,5 @@
 ## :wave: Hey there! Welcome to this beautiful place called GitHub,
+![](https://komarev.com/ghpvc/?username=loom4k&style=flat-square&color=ff69b4)
 
 I am loom4k, a full-stack developer who is working on multiple open-source projects that you can find on my Github profile. Have fun looking at everything!
 
