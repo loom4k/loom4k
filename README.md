@@ -13,10 +13,7 @@ I am loom4k, a full-stack developer who is working on multiple open-source proje
 
 ### 👔 Where do I work?
 
-- [Ferris.gg](https://ferris.gg) is a Discord Bot built to manage your community and give you the best moderation tools
-- [Hexagon](https://hexabot.tk) is a Discord Bot I am currently developing with friends
-- [CryptoSim](https://loom4k.me/notdoneyet) is a CryptoCurrency investment simulation program
-- And many more! I contribute to a couple of open-source projects in my free time. 
+- I am currently the Founder and Head-Developer of Teilen, a programmation article sharing platform based in Canada.
 
 ### ✉️ How to reach me
 
