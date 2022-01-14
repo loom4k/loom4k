@@ -12,6 +12,7 @@ I am loom4k, a full-stack developer who is working on multiple open-source proje
 ### 👔 Where do I work?
 - [Protein](https://twitter.com/protein) as a Software Engineer and Discord bot Developer
 - [DoggieLand Network](https://doggie.best) - Founder and Lead-Developer
+- [Pogy](https://pogy.xyz) OSS as a contibutor
 - And some others...
 
 ### ✉️ How to reach me
