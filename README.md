@@ -3,23 +3,60 @@
 
 I am loom4k, a full-stack developer who is working on multiple open-source projects that you can find on my Github profile. Have fun looking at everything!
 ### 💻 What do I work with and What do I do?
-- :electron: I use [Electron](https://github.com/electron/electron) to build cross-platforms website and apps
-- 🤖 I used to develop [Discord](https://discord.com/) Bots using [Discord.js](https://github.com/discordjs/discord.js) and JDA. Maybe I can still help you with that?
-- 🖌️ I use Adobe [Adobe Photoshop](https://photoshop.com/), Illustrator, and Premiere Pro to do some Graphic Design and Video Editing
-- 🎮 For Game Development, I use Unity and C# to create 3D open-world games (not open-source)
+- 🕹️ I make cross-platform games with Java, C++ and C#
+- 🤖 I develop [Discord](https://discord.com/) bots using [Discord.js](https://github.com/discordjs/discord.js) and [JDA](https://github.com/DV8FromTheWorld/JDA)
+- 🖌️ I use Adobe [Adobe Photoshop](https://photoshop.com), [Illustrator](https://www.adobe.com), and [Premiere Pro](https://www.adobe.com/creativecloud/video) to do some Graphic Design and Video Editing
 - 🎵 And finally, the best, music! I really enjoy listening to music and feel free to listen along with me on Discord
 
-### 👔 Where do I work?
-- [Protein](https://twitter.com/protein) as a Software Engineer and Discord bot Developer
-- [DoggieLand Network](https://doggie.best) - Founder and Lead-Developer
-- [Pogy](https://pogy.xyz) OSS as a contibutor
-- And some others...
+### 👔 What do I work on?
+I mainly work on personnal projects as an Indie Game Developer. All my work can be found on my Github and [here](https://loom4k.me]
+
+### 🔎 What do I contribute to?
+- [Pogy](https://pogy.xyz) the Discord bot: I do translations in French and contribute to the infrastructure management.
+- [Protein](https://twitter.com/protein) DAOs: I help with the systems and some development work.
+- I help [my friend](https://churton.uk) with some of his open-source projects and other stuff
 
 ### ✉️ How to reach me
-
 - [Discord](https://discord.com/users/534165671651573781) or loom#0001
 - [Email](mailto:contact@loom4k.me) or contact@loom4k.me
 - [Twitter](https://twitter.com/loom4kdoescode) @ loom4kdoescode
 - [Website](https://loom4k.me) @ loom4k.me
-### 😋 Interests and Technologies
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> ![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=) ![C Sharp](https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=) ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=) ![Spotify](https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=) ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=) ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=) ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
+
+### 😋 Socials
+[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/534165671651573781)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loom4k)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/loom4kdoescode)
+[![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/loom4k)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://loom4k.me/youtube)
+
+### Stack
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
+![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
+![](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+
+
+![](https://img.shields.io/badge/NVIDIA-GTX1660ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/Windows-11_PRO-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
