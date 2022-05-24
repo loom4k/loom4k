@@ -9,7 +9,7 @@ I am loom4k, a full-stack developer who is working on multiple open-source proje
 - 🎵 And finally, the best, music! I really enjoy listening to music and feel free to listen along with me on Discord
 
 ### 👔 What do I work on?
-I mainly work on personnal projects as an Indie Game Developer. All my work can be found on my Github and [here](https://loom4k.me]
+I mainly work on personnal projects as an Indie Game Developer. All my work can be found on my Github and [here](https://loom4k.me)
 
 ### 🔎 What do I contribute to?
 - [Pogy](https://pogy.xyz) the Discord bot: I do translations in French and contribute to the infrastructure management.
