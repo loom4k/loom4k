@@ -11,11 +11,6 @@ I am loom4k, a full-stack developer who is working on multiple open-source proje
 ### 👔 What do I work on?
 I mainly work on personnal projects as an Indie Game Developer. All my work can be found on my Github and [here](https://loom4k.me)
 
-### 🔎 What do I contribute to?
-- [Pogy](https://pogy.xyz) the Discord bot: I do translations in French and contribute to the infrastructure management.
-- [Protein](https://twitter.com/protein) DAOs: I help with the systems and some development work.
-- I help [my friend](https://churton.uk) with some of his open-source projects and other stuff
-
 ### ✉️ How to reach me
 - [Discord](https://discord.com/users/534165671651573781) or loom#0001
 - [Email](mailto:contact@loom4k.me) or contact@loom4k.me
