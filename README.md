@@ -12,7 +12,7 @@ I am loom4k, a full-stack developer who is working on multiple open-source proje
 I mainly work on personnal projects as an Indie Game Developer. All my work can be found on my Github and [here](https://loom4k.me)
 
 ### ✉️ How to reach me
-- [Discord](https://discord.com/users/534165671651573781) or loom#0001
+- [Discord](https://discord.com/users/534165671651573781) or loom#1902
 - [Email](mailto:contact@loom4k.me) or contact@loom4k.me
 - [Twitter](https://twitter.com/loom4kdoescode) @ loom4kdoescode
 - [Website](https://loom4k.me) @ loom4k.me
