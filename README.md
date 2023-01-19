@@ -53,5 +53,5 @@ I mainly work on personnal projects as an Indie Game Developer. All my work can 
 
 ![](https://img.shields.io/badge/NVIDIA-GTX1660ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![](https://img.shields.io/badge/Windows-11_PRO-0078D6?style=for-the-badge&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Windows-11_PRO-0078D6?style=for-the-badge&logo=arch&logoColor=white)
 ![](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
