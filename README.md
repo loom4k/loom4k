@@ -3,7 +3,7 @@
 
 I am loom4k, a full-stack developer who is working on multiple open-source projects that you can find on my Github profile. Have fun looking at everything!
 ### 💻 What do I work with and What do I do?
-- 🕹️ I make cross-platform games with Java, C++ and C#
+- 🕹️ I make cross-platform games with Java, Typescript and C#
 - 🤖 I develop [Discord](https://discord.com/) bots using [Discord.js](https://github.com/discordjs/discord.js) and [JDA](https://github.com/DV8FromTheWorld/JDA)
 - 🖌️ I use Adobe [Adobe Photoshop](https://photoshop.com), [Illustrator](https://www.adobe.com), and [Premiere Pro](https://www.adobe.com/creativecloud/video) to do some Graphic Design and Video Editing
 - 🎵 And finally, the best, music! I really enjoy listening to music and feel free to listen along with me on Discord
@@ -12,7 +12,7 @@ I am loom4k, a full-stack developer who is working on multiple open-source proje
 I mainly work on personnal projects as an Indie Game Developer. All my work can be found on my Github and [here](https://loom4k.me)
 
 ### ✉️ How to reach me
-- [Discord](https://discord.com/users/534165671651573781) or loom#1902
+- [Discord](https://discord.com/users/534165671651573781) or @loom
 - [Email](mailto:contact@loom4k.me) or contact@loom4k.me
 - [Twitter](https://twitter.com/loom4kdoescode) @ loom4kdoescode
 - [Website](https://loom4k.me) @ loom4k.me
